@@ -1,0 +1,25 @@
+.header_full{
+    width: 100vw;
+    height: 82px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header_container{
+    display: flex;
+    width: 1143px;
+    height: 58.2;
+    justify-content: space-between;
+    align-items: end;
+}
+.header_atags{
+    display: flex;
+    gap: 50px;
+    
+}
+.header_atags>a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 24px;
+    font-family: 'Pretendard_Medium';
+}
