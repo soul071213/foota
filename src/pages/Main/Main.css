@@ -1,0 +1,12 @@
+.main_container {
+    width: 98.93vw;
+    display: flex;
+    justify-content: center;
+}
+
+.image_container{
+    margin-top: 74px;
+    width: 1152px;
+    height: 562px;
+    display: flex;
+}
