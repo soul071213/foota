@@ -1,0 +1,62 @@
+.match_cards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 24px;
+    width: 100%;
+    height: 100px;
+    border-radius: 1.25rem;
+    background: #FFF;
+    box-shadow: 0px 3px 8px 0px rgba(0, 0, 0, 0.24);
+}
+
+.logoandtext{
+    display: flex;
+    font-size: 20px;
+    font-family: 'Pretendard_Bold';
+}
+.logoandtext>p{
+    width: 100px;
+}
+.logoandtext_r{
+    display: flex;
+    font-size: 20px;
+    font-family: 'Pretendard_Bold';
+}
+.logoandtext_r>div{
+    display: flex;
+    justify-content: end;
+    width: 100px;
+}
+.score_r{
+    font-size: 64px;
+    font-family: 'Pretendard_Bold';
+    margin-left: 24px;
+}
+
+.score_l{
+    font-size: 64px;
+    font-family: 'Pretendard_Bold';
+    margin-right: 24px;
+}
+.lins{
+    height: 100%;
+    width: 1.5px;
+    background-color: #ECEFF1;
+}
+.shows{
+    width: 242px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.jduge{
+    font-size: 24px;
+    font-family: 'Pretendard_Bold';
+}
+.date{
+    font-size: 18px;
+    font-family: 'Pretendard_Regular';
+}

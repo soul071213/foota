@@ -1,0 +1,42 @@
+.card_Layout{
+    width: 278px;
+    height: 410px;
+    border-radius: 0.5rem;
+    background: #FFF;
+    box-shadow: 0px 7px 29px 0px rgba(100, 100, 111, 0.20);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.logoss{
+    position: relative;
+    margin-bottom: 30px;
+}
+.medals{
+    position: absolute;
+    bottom: -10px;
+    right: -10px;
+}
+.card_name{
+    font-size: 24px;
+    font-family: 'Pretendard_Medium';
+}
+.card_club{
+    font-size: 18px;
+    font-family: 'Pretendard_Regular';
+    color: #909090;
+    margin-bottom: 66px;
+}
+.card_goals{
+    color: #4CAF50;
+    font-size: 28px;
+    font-family: 'Pretendard_Regular';
+    width: 140px;
+    height: 48px;
+    border-radius: 100rem;
+    background: rgba(236, 239, 241, 0.70);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,12 +1,81 @@
-.main_container {
-    width: 98.93vw;
+.main_Layout {
+    width: 100%;
     display: flex;
     justify-content: center;
 }
 
-.image_container{
-    margin-top: 74px;
-    width: 1152px;
-    height: 562px;
+.image_Layout{
+    padding: 74px 0;
     display: flex;
+    gap: 20px;
+}
+
+.Ranking_Container{
+    width: 313px;
+    height: 425px;
+    border-radius: 12px;
+    border: 1.5px solid #ECEFF1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.8px;
+    align-items: center;
+}
+
+.sliber_images{
+    border-radius: 20px;
+    width: 534px;
+    height: 425px;
+}
+
+.gray_Container{
+    padding: 75px 0px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #ECEFF1;
+    gap: 20px;
+}
+
+.number_kind{
+    position: absolute;
+    bottom: 24px;
+    left: 24px;
+    display: flex;
+}
+
+.imagesd{
+    position: relative;
+}
+
+.trun{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 8px;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: rgba(117, 117, 117, 0.80);
+}
+.numbers{
+    width: 80px;
+    height: 32px;
+    border-radius: 100px;
+    background: rgba(117, 117, 117, 0.80);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 8px;
+}
+
+.numbers>div>p{
+    font-size: 20px;
+    font-family: 'Pretendard_Bold';
+    color: white;
+}
+
+.numbers>div{
+    display: flex;
+    gap: 2px;
 }

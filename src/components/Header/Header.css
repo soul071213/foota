@@ -1,27 +1,27 @@
 .header_full{
     border-bottom: 1px solid #DFDFDF;
     background: #FFF;
-    width: 100vw;
-    height: 5.125rem;
+    width: 100%;
+    height: 82px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 .header_container{
     display: flex;
-    width: 54.25rem;
-    height: 3.625rem;
+    width: 868px;
+    height: 58px;
     justify-content: space-between;
     align-items: end;
 }
 .header_atags{
     display: flex;
-    gap: 1.625rem;
+    gap: 26px;
     
 }
 .header_atags>a{
     text-decoration: none;
     color: #000000;
-    font-size: 1.25rem;
+    font-size: 20px;
     font-family: 'Pretendard_Medium';
 }

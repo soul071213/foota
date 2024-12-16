@@ -1,0 +1,45 @@
+.RankLayout{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 34px;
+}    
+.RankContainer{
+    margin-top: 42px;
+    width: 868px;
+}
+.Ranks_Container{
+    margin-top: 12px;
+    width: 100%;
+    height: 650px;
+    border-radius: 8px;
+    border: 2px solid #ECEFF1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.titles{
+    margin-top: 6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: start;
+    gap: 544px;
+}
+.titleese{
+    display: flex;
+    gap: 12px;
+}
+.titleese>div{
+    font-size: 16px;
+    font-family: 'Pretendard_Ragular';
+    width: 32px;
+    text-align: center;
+}
+.rank_components{
+    margin-top: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

@@ -1,0 +1,24 @@
+.Layouts{
+    display: flex;
+    font-size: 16px;
+    font-family: 'Pretendard_Regular';
+}
+.textssss{
+    display: flex;
+    gap: 12px;
+}
+.pss{
+    width:32px;
+}
+.club_names{
+    width: 180px;
+}
+.logossssss{
+    width: 20px;
+    height: 20px;
+    margin-right: 24px;
+}
+.ranksss{
+    margin-right: 8px;
+    width: 20px;
+}
