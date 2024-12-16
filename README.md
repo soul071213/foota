@@ -7,7 +7,7 @@
 축구 데이터를 보기 쉽게 습득하는 사이트를 제작할 것 입니다.
 
 ### 사용 기술
-react, pandas
+react, pandas, firebase
 
 ### 데이터 분석
 출처 : https://footystats.org/download-stats-csv
