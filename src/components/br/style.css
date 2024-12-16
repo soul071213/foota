@@ -1,0 +1,10 @@
+.texts{
+    font-size: 18px;
+    font-family: 'Pretendard_Semibold';
+}
+.br{
+    margin-top: 12px;
+    width: 100%;
+    height: 1.5px;
+    background-color: #C3C3C3;
+}

@@ -1,0 +1,22 @@
+.Players_Layout{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.biger_texts{
+    font-size: 40px;
+    margin-top: 32px;
+    font-family: 'Pretendard_Medium';
+}
+.little_texts{
+    font-size: 24px;
+    font-family: 'Pretendard_Regular';
+    color: #9E9E9E;
+    margin-bottom: 32px;
+}
+.cards{
+    display: flex;
+    gap: 18px;
+}
